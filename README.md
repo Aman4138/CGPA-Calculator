@@ -44,4 +44,4 @@ Programming | 14.00 | 12.50 | 10.00 | 39.00 | 75.50
 
 ### **Compile**
 ```bash
-g++ cgpa.cpp -o cgpa
+g++ cgpa.cpp -o cgpa  
